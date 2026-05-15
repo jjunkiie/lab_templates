@@ -4,8 +4,8 @@
 
 | Field     | Value               |
 |-----------|---------------------|
-| **Name**  | _John Doe_          |
-| **Group** | _CS-101_            |
+| **Name**  | Исалов Иса          |
+| **Group** | РПИС 1-ая Группа    |
 
 > **Replace the data above with your own!**
 
